@@ -21,7 +21,7 @@
         type="button"
         class="text-white text-xl hover:text-[#2C74B3] active:text-[#2C74B3]"
       >
-        <NuxtLink to="/contact"> contact me </NuxtLink>
+        <NuxtLink to="/contact"> Contact me </NuxtLink>
       </button>
     </div>
   </div>
